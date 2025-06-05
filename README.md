@@ -50,9 +50,9 @@ This project provides a comprehensive sales analysis using SQL, Excel, and Power
 
 ## How to Use This Repo
 
-- **SQL Queries**: Found in `/sql` folder. Use these queries to replicate data analysis on your own sales database.
-- **Excel Files**: Available in `/excel` folder with raw and pivot data.
-- **Power BI Report**: The `.pbix` file is located in `/powerbi` folder for you to open and explore the interactive dashboard.
+- **SQL Queries**: Found in `Superstore_SQL_Queries.sql` folder. Use these queries to replicate data analysis on your own sales database.
+- **Excel Files**: Available in `Superstore_excel_analysis.xlsx` folder with raw and pivot data.
+- **Power BI Report**: The `.pbix` file is located in `superstore_powerBI_Visualization.pbix` folder for you to open and explore the interactive dashboard.
 
 ---
 
