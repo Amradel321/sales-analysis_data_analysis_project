@@ -30,7 +30,7 @@ This project provides a comprehensive sales analysis using SQL, Excel, and Power
   - **Dashboard**: KPIs and monthly sales & profit trends.
   - **Regions & Customers**: Regional profits, orders per customer, and top customers.
   - **Products & Discounts**: Top products by sales and profit, and discount impact analysis.
-  - **Shipping** (optional): Delivery times by shipping mode.
+  - **Shipping** : Delivery times by shipping mode.
 
 - Implemented slicers for filtering by year, segment, and region.
 - Used charts like bar charts, line charts, and tables for visualization.
